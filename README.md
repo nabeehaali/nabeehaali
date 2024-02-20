@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Nabeeha and I'm a game developer with experience in a variety of languages and frameworks. I also have experience in marketing and graphic design, which I
-believe helps to give me a well-rounded perspective on digital media projects. Some of the technologies I'm familiar with include:
+My name is Nabeeha and I'm a game developer with experience in a variety of languages and frameworks. I've made a variety of games spanning from 2D/3D, single/multiplayer, and mobile/desktop/console. I also have experience in marketing and graphic design, which I believe helps to give me a well-rounded perspective on digital media projects. Some of the technologies I'm familiar are (but not limited to):
 
 - **Unity C#**
 - **Python**
